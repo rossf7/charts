@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  scaphandre:
+  - apiVersion: v1
+    appVersion: 0.1.1
+    created: "2022-06-02T09:16:16.627983971Z"
+    description: A Helm chart for Scaphandre electrical power consumption agent
+    digest: e0ae3c2e7df81e56b13df4afed39059707de646b11c5d35c88b21c1372f841ed
+    home: https://github.com/hubblo-org/scaphandre
+    name: scaphandre
+    urls:
+    - https://github.com/rossf7/helm-charts/releases/download/scaphandre-0.1.2/scaphandre-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-06-02T09:16:16.627999671Z"
